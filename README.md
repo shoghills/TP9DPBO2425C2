@@ -2,7 +2,7 @@
 
 Saya Rifa Muhammad Danindra dengan Nim 2405981 mengerjakan tugas praktikum 9 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak akan melakukan kecurangan seperti yang telah di spesifikasikan Aamiin.
 
-Desain Program
+# Desain Program
 
       mvp_template/
       ├── models/
@@ -26,7 +26,7 @@ Desain Program
       ├── index.php
       └── mvp_db.sql
 
-🚦 Alur Program MVP (Model-View-Presenter)
+# Alur Program 
 Struktur MVP Anda memisahkan tiga tanggung jawab utama:
 
 View (ViewPembalap.php, ViewEventBalapan.php): Bertanggung jawab atas antarmuka pengguna (UI) dan menerima input pengguna (misalnya, klik tombol).
@@ -52,4 +52,12 @@ Setiap operasi CRUD mengikuti pola komunikasi bolak-balik yang ketat antara tiga
     A. Alur READ 
     B. Alur CREATE 
     C. Alur UPDATE 
-    D. Alur DELETE 
+    D. Alur DELETE
+
+# Dokumentasi
+
+https://github.com/user-attachments/assets/de6e1974-4448-41df-ab1d-b4f76d5a9ef1
+
+
+
+   
